@@ -6,4 +6,5 @@ The goal of this project is to produce a program that will generate random messa
 
 for this, I will need the following:
 * Mad Lib Templates (Prefer Minimum of 5)
-* Noun list
+* Parts of Speech List
+    * Arrays containing parts of speech
