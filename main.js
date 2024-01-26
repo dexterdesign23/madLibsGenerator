@@ -82,4 +82,3 @@ const getRandomStory = () =>{
 }
 
 console.log(getRandomStory());
-console.log(stories.length)
