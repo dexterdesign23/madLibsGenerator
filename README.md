@@ -5,5 +5,5 @@
 The goal of this project is to produce a program that will generate random messages. In this particular case, I will be creating a Mad Lib Generator.
 
 for this, I will need the following:
-*Mad Lib Templates (Prefer Minimum of 5)
-*Noun list
+* Mad Lib Templates (Prefer Minimum of 5)
+* Noun list
