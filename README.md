@@ -8,3 +8,4 @@ for this, I will need the following:
 * Mad Lib Templates (Prefer Minimum of 5)
 * Parts of Speech List
     * Arrays containing parts of speech
+* Methods for selecting random values in arrays
