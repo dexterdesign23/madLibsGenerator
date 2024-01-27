@@ -9,3 +9,9 @@ for this, I will need the following:
 * Parts of Speech List
     * Arrays containing parts of speech
 * Methods for selecting random values in arrays
+
+Complete with option to add new stories
+=======================================
+
+(make sure to add to array)
+---------------------------
